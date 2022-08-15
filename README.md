@@ -5,13 +5,12 @@
 <img src="https://wallpapercave.com/wp/wp5543313.jpg" alt="Meliodas" align="right" width="375" height="auto" />
 
 - 🔭 I’m currently studying on Public Vocational High School 1 Cibinong
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 👯 I’m looking to collaborate on Data Science Project
+- 🌱 I’m currently learning Web Development and Competitive Programming
+- 👯 I’m looking to collaborate on Web Development Projects
 - 🤔 I’m loving to learn something new, especially in IT Field
-- 💬 Ask me about School Assignment
 - 📫 How to reach me: muhammadaris1945@gmail.com
 - 😄 Pronouns: Aris [Bahasa] - Eraiz [English]
-- ⚡ Fun fact: `Stalin is a Paranoia`
+- ⚡ Fun fact: `I am an Extrovert Programmer`
 - 
 <details open>	
   <summary><b>🤖 GITHUB STATS </b></summary>
