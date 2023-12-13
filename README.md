@@ -106,14 +106,17 @@ Passionate about software engineering and driven by a strong desire to create in
 [![Mhmdaris15`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mhmdaris15&theme=github-compact)](https://github.com/Mhmdaris15/github-readme-activity-graph)
 
 <h2> My Projects 📁</h2>
+<a href="https://github.com/Mhmdaris15/awesome-rust-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mhmdaris15&theme=react&repo=linkedin-scraping" />
+</a>
 <a href="https://github.com/Mhmdaris15/linkedin-scraping">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mhmdaris15&theme=react&repo=linkedin-scraping" />
 </a>
-<a href="https://github.com/Mhmdaris15/live-scoring-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mhmdaris15&theme=react&repo=live-scoring-client" />
+<a href="https://github.com/Mhmdaris15/booking-movie-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mhmdaris15&theme=react&repo=booking-movie-client" />
 </a>
- <a href="https://github.com/Mhmdaris15/live-scoring-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mhmdaris15&theme=react&repo=live-scoring-app" />
+ <a href="https://github.com/Mhmdaris15/booking-movie-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mhmdaris15&theme=react&repo=booking-movie-app" />
 </a>
  <a href="https://github.com/Mhmdaris15/Run-Terminate-Exe-Automation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mhmdaris15&theme=react&repo=Run-Terminate-Exe-Automation" />
