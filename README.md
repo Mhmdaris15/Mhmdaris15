@@ -107,7 +107,7 @@ Passionate about software engineering and driven by a strong desire to create in
 
 <h2> My Projects 📁</h2>
 <a href="https://github.com/Mhmdaris15/awesome-rust-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mhmdaris15&theme=react&repo=linkedin-scraping" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mhmdaris15&theme=react&repo=awesome-rust-api" />
 </a>
 <a href="https://github.com/Mhmdaris15/linkedin-scraping">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mhmdaris15&theme=react&repo=linkedin-scraping" />
