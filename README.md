@@ -13,9 +13,9 @@
 
 ## Muhammad Aris Septanugroho 💇‍♂️
 
-### Software Engineer | Data Analyst</h3>
+### Software Engineer | Data Scientist</h3>
 
-Passionate about software engineering and driven by a strong desire to create innovative and impactful solutions. Currently working as part time at [Demandlane](https://demandlane.com/) as a Data Analyst, where I gain valuable experience in analyzing data, building machine learning model, and collaborating with a talented team. </h4>
+Passionate about software engineering and driven by a strong desire to create innovative and impactful solutions. Currently working as part time at [Demandlane](https://demandlane.com/) as a Data Scientist, where I gain valuable experience in analyzing data, building machine learning model, and collaborating with a talented team. </h4>
 
 <img src="https://wallpapercave.com/wp/wp5543313.jpg" alt="Meliodas" align="right" width="375" height="auto" />
 
